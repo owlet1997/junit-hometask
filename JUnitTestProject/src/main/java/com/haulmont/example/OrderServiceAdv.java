@@ -1,6 +1,6 @@
-package com.haulmont;
+package com.haulmont.example;
 
-import com.haulmont.order.*;
+import com.haulmont.example.order.*;
 
 public class OrderServiceAdv {
     OrderUpdater orderUpdater;

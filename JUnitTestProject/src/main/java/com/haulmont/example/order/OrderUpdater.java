@@ -1,4 +1,4 @@
-package com.haulmont.order;
+package com.haulmont.example.order;
 
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 

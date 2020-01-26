@@ -1,8 +1,10 @@
-package com.haulmont;
+package com.haulmont.example;
 
-import com.haulmont.order.HttpClient;
-import com.haulmont.order.Order;
-import com.haulmont.order.OrderStatus;
+import com.haulmont.example.order.HttpClient;
+import com.haulmont.example.order.Order;
+import com.haulmont.example.order.OrderStatus;
+
+import java.util.regex.Pattern;
 
 public class OrderService {
     HttpClient client;

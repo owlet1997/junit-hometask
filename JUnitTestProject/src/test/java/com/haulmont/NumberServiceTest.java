@@ -1,9 +1,8 @@
 package com.haulmont;
 
-import com.haulmont.categories.NumberTestCategory;
+import com.haulmont.example.NumberService;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.experimental.categories.Category;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

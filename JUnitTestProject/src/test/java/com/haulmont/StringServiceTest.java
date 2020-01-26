@@ -1,6 +1,7 @@
 package com.haulmont;
 
 import com.haulmont.categories.StringTestCategory;
+import com.haulmont.example.StringService;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.experimental.categories.Category;

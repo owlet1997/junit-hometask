@@ -1,4 +1,4 @@
-package com.haulmont.order;
+package com.haulmont.example.order;
 
 public enum OrderStatus {
     NEW, RESERVED, CANCELLED

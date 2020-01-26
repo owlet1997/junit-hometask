@@ -1,10 +1,10 @@
 package com.haulmont.mock;
 
-import com.haulmont.OrderServiceAdv;
-import com.haulmont.order.HttpClient;
-import com.haulmont.order.Order;
-import com.haulmont.order.OrderLoader;
-import com.haulmont.order.OrderUpdater;
+import com.haulmont.example.OrderServiceAdv;
+import com.haulmont.example.order.HttpClient;
+import com.haulmont.example.order.Order;
+import com.haulmont.example.order.OrderLoader;
+import com.haulmont.example.order.OrderUpdater;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
