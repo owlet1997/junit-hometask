@@ -21,7 +21,7 @@ public class StringServiceTest {
     public void testConcatPositive() {
         String s1 = "hello";
         String s2 = " world!";
-        assertEquals(s1 + s2, "hello world!");
+        assertEquals("hello world!", stringService.concat(s1, s2));
     }
 
 }
